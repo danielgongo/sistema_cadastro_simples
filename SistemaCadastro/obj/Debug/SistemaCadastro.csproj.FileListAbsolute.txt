@@ -1,0 +1,11 @@
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Curso_c#\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
